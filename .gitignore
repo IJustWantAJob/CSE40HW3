@@ -1,0 +1,7 @@
+# Ignore config file with credentials
+config.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
